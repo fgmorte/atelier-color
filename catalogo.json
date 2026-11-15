@@ -1,0 +1,93 @@
+[
+  {
+    "id": "flor-demo",
+    "title": "Flor de primavera",
+    "category": "Naturaleza",
+    "svg": "assets/flor.svg",
+    "progress": 0
+  },
+  {
+    "id": "mariposa-demo",
+    "title": "Mariposa",
+    "category": "Naturaleza",
+    "svg": "assets/mariposa.svg",
+    "progress": 0
+  },
+  {
+    "id": "casa-demo",
+    "title": "Casita del jardín",
+    "category": "Paisajes",
+    "svg": "assets/casa.svg",
+    "progress": 0
+  },
+  {
+    "id": "1-montanas",
+    "title": "Montañas al amanecer",
+    "category": "Paisajes",
+    "svg": "assets/1-montanas.svg",
+    "progress": 0
+  },
+  {
+    "id": "2-playa",
+    "title": "Día de playa",
+    "category": "Paisajes",
+    "svg": "assets/2-playa.svg",
+    "progress": 0
+  },
+  {
+    "id": "3-bosque",
+    "title": "Bosque tranquilo",
+    "category": "Paisajes",
+    "svg": "assets/3-bosque.svg",
+    "progress": 0
+  },
+  {
+    "id": "4-faro",
+    "title": "El faro costero",
+    "category": "Paisajes",
+    "svg": "assets/4-faro.svg",
+    "progress": 0
+  },
+  {
+    "id": "5-zorro",
+    "title": "Zorro del bosque",
+    "category": "Animales",
+    "svg": "assets/5-zorro.svg",
+    "progress": 0
+  },
+  {
+    "id": "6-gato",
+    "title": "Gato curioso",
+    "category": "Animales",
+    "svg": "assets/6-gato.svg",
+    "progress": 0
+  },
+  {
+    "id": "7-tortuga",
+    "title": "Tortuga marina",
+    "category": "Animales",
+    "svg": "assets/7-tortuga.svg",
+    "progress": 0
+  },
+  {
+    "id": "8-buho",
+    "title": "Búho de la noche",
+    "category": "Animales",
+    "svg": "assets/8-buho.svg",
+    "progress": 0
+  },
+  {
+    "id": "9-ballena",
+    "title": "Ballena viajera",
+    "category": "Animales",
+    "svg": "assets/9-ballena.svg",
+    "progress": 0
+  },
+  {
+    "id": "10-ciervo",
+    "title": "Ciervo del prado",
+    "category": "Animales",
+    "svg": "assets/10-ciervo.svg",
+    "progress": 0
+  }
+]
